@@ -1,0 +1,8 @@
+C:\Users\Jyo\source\repos\StudentRepository\StudentRepository\bin\Debug\StudentRepository.dll
+C:\Users\Jyo\source\repos\StudentRepository\StudentRepository\bin\Debug\StudentRepository.pdb
+C:\Users\Jyo\source\repos\StudentRepository\StudentRepository\bin\Debug\MySql.Data.dll
+C:\Users\Jyo\source\repos\StudentRepository\StudentRepository\obj\Debug\StudentRepo.csproj.CoreCompileInputs.cache
+C:\Users\Jyo\source\repos\StudentRepository\StudentRepository\obj\Debug\StudentRepo.csproj.CopyComplete
+C:\Users\Jyo\source\repos\StudentRepository\StudentRepository\obj\Debug\StudentRepository.dll
+C:\Users\Jyo\source\repos\StudentRepository\StudentRepository\obj\Debug\StudentRepository.pdb
+C:\Users\Jyo\source\repos\StudentRepository\StudentRepository\obj\Debug\StudentRepo.csproj.AssemblyReference.cache
